@@ -7,7 +7,7 @@
 |keywords|Keyword||Keywords|Self < ASF|?|
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
-|copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|?|
+|copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|Copy Name|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
