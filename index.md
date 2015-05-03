@@ -1,4 +1,4 @@
-|LR_metadata field name| Metadata Search Field Name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
+|LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
 |caption|||Caption|Self < ASF|?|
 |file path||||ASF|?|
@@ -43,10 +43,10 @@
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
 
-<a name="myfootnote4">4</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>.
+<a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"Adobe documentation</a> ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>. The metadata search bar refers to <code>IPTC:Image Description:City</code>.
 
-<a name="myfootnote5">5</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:State/Province</code>, and <code>IPTC:Contact:State/Province</code>.
+<a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"Adobe documentation</a> ambiguously refers to both <code>IPTC:Image Description:State/Province</code>, and <code>IPTC:Contact:State/Province</code>. The metadata search bar refers to <code>IPTC:Image Description:State</code>.
 
-<a name="myfootnote6">6</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>.
+<a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"Adobe documentation</a> ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>. The metadata search bar refers to <code>IPTC:Image Description:Country</code>.
 
-<a name="myfootnote7">7</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Status:Job Identifier</code>, and <code>IPTC:Contact:Job Title</code>.
+<a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"Adobe documentation</a> ambiguously refers to both <code>IPTC:Status:Job Identifier</code>, and <code>IPTC:Contact:Job Title</code>. The metadata search bar refers to <code>IPTC:Status:Job Identifier</code>.
