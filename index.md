@@ -3,7 +3,7 @@
 |---|---|---|---|---|---|
 |caption||IPTC:Headline|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
-|keywords|Keyword||Keywords|Self < ASF|?|
+|keywords|Keyword||Keywords|Self < ASF|Keywords|
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
