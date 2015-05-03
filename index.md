@@ -1,9 +1,9 @@
 
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
-|caption||IPTC:Headline|Caption|Self < ASF|Caption|
+|caption||IPTC Headline:Headline|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
-|keywords|Keyword||Keywords|Self < ASF|Keywords|
+|keywords|Keyword|IPTC Headline:Keywords|Keywords|Self < ASF|Keywords|
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
