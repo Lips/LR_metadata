@@ -10,11 +10,11 @@
 |copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self < ?|?|
 |title||Title|Self < SM|?|
 |keywords||Keywords|Self < ASF|?|
-|make|N/A||Searchable EXIF|?|
-|model|N/A||Searchable EXIF|?|
-|serial number||N/A|Searchable EXIF|?|
-|software|N/A||Searchable EXIF|?|
-|Creator|N/A||Searchable IPTC|?|
+|make||N/A|Searchable EXIF|?|
+|model||N/A|Searchable EXIF|?|
+|serial number|||N/A|Searchable EXIF|?|
+|software||N/A|Searchable EXIF|?|
+|Creator||N/A|Searchable IPTC|?|
 
 IPTC:Contact:Job Title
 IPTC:Contact:Address
