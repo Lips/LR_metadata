@@ -1,4 +1,4 @@
-|LR_metadata field name| Source | Search bar field name | Search bar text subset | Smart collection field name|
+|LR_metadata field name| Source | Search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|
 |caption||Caption|Self < ASF|?|
 |file path||N/A|ASF|?|
@@ -12,11 +12,18 @@
 |keywords||Keywords|Self < ASF|?|
 |make||N/A|Searchable EXIF|?|
 |model||N/A|Searchable EXIF|?|
-|serial number|||N/A|Searchable EXIF|?|
+|serial number||N/A|Searchable EXIF|?|
 |software||N/A|Searchable EXIF|?|
-|Creator||N/A|Searchable IPTC|?|
+|job title|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|IPTC:Contact|N/A|Searchable IPTC|?|
 
-IPTC:Contact:Job Title
+IPTC:Contact:
 IPTC:Contact:Address
 IPTC:Contact:City
 IPTC:Contact:State/Province
