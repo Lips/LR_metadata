@@ -7,7 +7,7 @@
 |custom metadata||N/A|ASF|?|
 |collection name||N/A|ASF|?|
 |filename||Filename|Self|?|
-|copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self < ?|?|
+|copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self|?|
 |title||Title|Self < SM|?|
 |keywords||Keywords|Self < ASF|?|
 |make||N/A|Searchable EXIF|?|
