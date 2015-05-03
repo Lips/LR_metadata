@@ -1,4 +1,4 @@
-|LR_metadata field name| Source | Search bar field name | Text search dropdown subset | Smart collection field name|
+|LR_metadata field name| Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|
 |caption||Caption|Self < ASF|?|
 |file path||N/A|ASF|?|
@@ -36,19 +36,8 @@
 |creditline|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |source|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |title|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-
-IPTC:Status:
-IPTC:Status:
-IPTC:Status:
-IPTC:Status:
-
-###IPTC Copyright
-IPTC:Copyright:Rights Usage Terms
-IPTC:Copyright:Copyright Info URL.
-
-###Any Searchable Plug-In Field
-Searchable metadata fields created by third-party plug-ins.
-
+|rights usage terms|IPTC:Copyright|N/A|Searchable IPTC|?|
+|copyright info URL|IPTC:Copyright|N/A|Searchable IPTC|?|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
 
