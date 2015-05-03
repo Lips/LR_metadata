@@ -12,7 +12,7 @@
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
 |software||EXIF||Searchable EXIF|?|
-|job title|job?<sup>[7](#myfootnote7)|IPTC:Contact||Searchable IPTC|?|
+|job title||IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
 |city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
@@ -29,7 +29,7 @@
 |state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
-|job identifier|Job?<sup>[7](#myfootnote7)|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
