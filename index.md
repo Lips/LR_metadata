@@ -7,7 +7,6 @@
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
 |copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|?|
-|title|||Title|Self < SM|?|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
@@ -34,6 +33,7 @@
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|?|
 |rights usage terms||IPTC:Copyright|N/A|Searchable IPTC|?|
 |copyright info URL||IPTC:Copyright|N/A|Searchable IPTC|?|
 
