@@ -6,7 +6,7 @@
 |keywords|Keyword||Keywords|Self < ASF|?|
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
-|virtual copy name <sup>[1](#myfootnote1)</sup>||LR|Copy Name|Self < ASF|Copy Name|
+|virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
