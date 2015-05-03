@@ -7,13 +7,10 @@
 |collection name|||N/A|ASF|?|
 |filename|||Filename|Self|?|
 |copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|?|
-
-
-|title||Title|Self < SM|?|
-|keywords||Keywords|Self < ASF|?|
-|make|EXIF|N/A|Searchable EXIF|?|
-|model|EXIF|N/A|Searchable EXIF|?|
-|serial number|EXIF|N/A|Searchable EXIF|?|
+|title|||Title|Self < SM|?|
+|make||EXIF|N/A|Searchable EXIF|?|
+|model|Camera|EXIF|N/A|Searchable EXIF|?|
+|serial number|Camera Serial Number|EXIF|N/A|Searchable EXIF|?|
 |software|EXIF|N/A|Searchable EXIF|?|
 |job title|IPTC:Contact|N/A|Searchable IPTC|?|
 |address|IPTC:Contact|N/A|Searchable IPTC|?|
