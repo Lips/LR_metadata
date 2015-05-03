@@ -12,7 +12,7 @@
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
 |software||EXIF||Searchable EXIF|?|
-|job title|job?|IPTC:Contact||Searchable IPTC|?|
+|job title|job?<sup>[7](#myfootnote7)|IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
 |city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
@@ -25,11 +25,11 @@
 |intellectual genre||IPTC:Image Description|N/A|Searchable IPTC|?|
 |IPTC Scene Code||IPTC:Image Description|N/A|Searchable IPTC|?|
 |sublocation|Sublocation?|IPTC:Image Description|N/A|Searchable IPTC|?|
-|city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
+|city|City?<sup>[4](#myfootnote4)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
-|ISO Country Code|IPTC:Image Description|N/A|Searchable IPTC|?|
-|job identifier|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
+|job identifier|Job?<sup>[7](#myfootnote7)|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |instructions|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |creditline|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |source|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
@@ -47,4 +47,6 @@
 
 <a name="myfootnote5">5</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:State/Province</code>, and <code>IPTC:Contact:State/Province</code>.
 
-<a name="myfootnote5">5</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>.
+<a name="myfootnote6">6</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>.
+
+<a name="myfootnote6">6</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Status:Job Identifier</code>, and <code>IPTC:Contact:Job Title</code>.
