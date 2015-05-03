@@ -10,10 +10,10 @@
 |copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self|?|
 |title||Title|Self < SM|?|
 |keywords||Keywords|Self < ASF|?|
-|make||N/A|Searchable EXIF|?|
-|model||N/A|Searchable EXIF|?|
-|serial number||N/A|Searchable EXIF|?|
-|software||N/A|Searchable EXIF|?|
+|make|EXIF|N/A|Searchable EXIF|?|
+|model|EXIF|N/A|Searchable EXIF|?|
+|serial number|EXIF|N/A|Searchable EXIF|?|
+|software|EXIF|N/A|Searchable EXIF|?|
 |job title|IPTC:Contact|N/A|Searchable IPTC|?|
 |address|IPTC:Contact|N/A|Searchable IPTC|?|
 |city|IPTC:Contact|N/A|Searchable IPTC|?|
