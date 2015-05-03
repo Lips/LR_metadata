@@ -1,19 +1,19 @@
 |LR_metadata field name| Metadata Search Field Name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
 |caption|||Caption|Self < ASF|?|
-|file path|||N/A|ASF|?|
+|file path||||ASF|?|
 |virtual copy name|||Copy Name|Self < ASF|?|
 |keywords|Keyword||Keywords|Self < ASF|?|
-|collection name|||N/A|ASF|?|
+|collection name||||ASF|?|
 |filename|||Filename|Self|?|
 |copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|?|
 |title|||Title|Self < SM|?|
-|make||EXIF|N/A|Searchable EXIF|?|
-|model|Camera|EXIF|N/A|Searchable EXIF|?|
+|make||EXIF||Searchable EXIF|?|
+|model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF|N/A|Searchable EXIF|?|
 |software||EXIF|N/A|Searchable EXIF|?|
-|job title|job?|IPTC:Contact|N/A|Searchable IPTC|?|
-|address||IPTC:Contact|N/A|Searchable IPTC|?|
+|job title|job?|IPTC:Contact||Searchable IPTC|?|
+|address||IPTC:Contact||Searchable IPTC|?|
 
 |city|IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province|IPTC:Contact|N/A|Searchable IPTC|?|
