@@ -3,11 +3,10 @@
 |---|---|---|---|---|---|
 |caption||IPTC:Headline|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
-|virtual copy name|||Copy Name|Self < ASF|?|
 |keywords|Keyword||Keywords|Self < ASF|?|
 |collection name||||ASF|?|
 |filename|||Filename|Self|?|
-|copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|Copy Name|
+|virtual copy name <sup>[1](#myfootnote1)</sup>||LR|Copy Name|Self < ASF|Copy Name|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
