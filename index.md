@@ -49,4 +49,4 @@
 
 <a name="myfootnote6">6</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>.
 
-<a name="myfootnote6">6</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Status:Job Identifier</code>, and <code>IPTC:Contact:Job Title</code>.
+<a name="myfootnote7">7</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Status:Job Identifier</code>, and <code>IPTC:Contact:Job Title</code>.
