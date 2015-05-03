@@ -44,4 +44,4 @@
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
 
-<a name="myfootnote4">3</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation refers to both IPTC:Image Description:City, and IPTC:Contact:City.
+<a name="myfootnote4">3</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation refers to both <code>IPTC:Image Description:City</code>, and IPTC:Contact:City.
