@@ -24,7 +24,7 @@
 |description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
 |intellectual genre||IPTC:Image Description|N/A|Searchable IPTC|?|
 |IPTC Scene Code||IPTC:Image Description|N/A|Searchable IPTC|?|
-|sublocation|Sublocation?|IPTC:Image Description|N/A|Searchable IPTC|?|
+|sublocation|Sublocation|IPTC:Image Description|N/A|Searchable IPTC|?|
 |city|City|IPTC:Image Description|N/A|Searchable IPTC|?|
 |state/province|State / Province|IPTC:Image Description|N/A|Searchable IPTC|?|
 |country|Country|IPTC:Image Description|N/A|Searchable IPTC|?|
