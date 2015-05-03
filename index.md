@@ -13,28 +13,28 @@
 |software||EXIF||Searchable EXIF|?|
 |job title||IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
-|city||IPTC:Contact|N/A|Searchable IPTC|?|
-|state/province||IPTC:Contact|N/A|Searchable IPTC|?|
-|postal Code||IPTC:Contact|N/A|Searchable IPTC|?|
-|country||IPTC:Contact|N/A|Searchable IPTC|?|
-|creator|Creator|IPTC:Contact|N/A|Searchable IPTC|?|
-|headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|intellectual genre||IPTC:Image Description|N/A|Searchable IPTC|?|
-|IPTC Scene Code||IPTC:Image Description|N/A|Searchable IPTC|?|
-|sublocation|Sublocation|IPTC:Image Description|N/A|Searchable IPTC|?|
-|city|City|IPTC:Image Description|N/A|Searchable IPTC|?|
-|state/province|State / Province|IPTC:Image Description|N/A|Searchable IPTC|?|
-|country|Country|IPTC:Image Description|N/A|Searchable IPTC|?|
-|ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
-|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|source||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|city||IPTC:Contact||Searchable IPTC|?|
+|state/province||IPTC:Contact||Searchable IPTC|?|
+|postal Code||IPTC:Contact||Searchable IPTC|?|
+|country||IPTC:Contact||Searchable IPTC|?|
+|creator|Creator|IPTC:Contact||Searchable IPTC|?|
+|headline||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
+|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
+|description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
+|intellectual genre||IPTC:Image Description||Searchable IPTC|?|
+|IPTC Scene Code||IPTC:Image Description||Searchable IPTC|?|
+|sublocation|Sublocation|IPTC:Image Description||Searchable IPTC|?|
+|city|City|IPTC:Image Description||Searchable IPTC|?|
+|state/province|State / Province|IPTC:Image Description||Searchable IPTC|?|
+|country|Country|IPTC:Image Description||Searchable IPTC|?|
+|ISO Country Code||IPTC:Image Description||Searchable IPTC|?|
+|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
+|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
+|creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
+|source||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
 |title|Title|IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|?|
-|rights usage terms||IPTC:Copyright|N/A|Searchable IPTC|?|
-|copyright info URL||IPTC:Copyright|N/A|Searchable IPTC|?|
+|rights usage terms||IPTC:Copyright||Searchable IPTC|?|
+|copyright info URL||IPTC:Copyright||Searchable IPTC|?|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
 
