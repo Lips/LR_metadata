@@ -10,12 +10,12 @@
 |title|||Title|Self < SM|?|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
-|serial number|Camera Serial Number|EXIF|N/A|Searchable EXIF|?|
-|software||EXIF|N/A|Searchable EXIF|?|
+|serial number|Camera Serial Number|EXIF||Searchable EXIF|?|
+|software||EXIF||Searchable EXIF|?|
 |job title|job?|IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
 
-|city|IPTC:Contact|N/A|Searchable IPTC|?|
+|city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province|IPTC:Contact|N/A|Searchable IPTC|?|
 |postal Code|IPTC:Contact|N/A|Searchable IPTC|?|
 |country|IPTC:Contact|N/A|Searchable IPTC|?|
@@ -26,7 +26,7 @@
 |intellectual genre|IPTC:Image Description|N/A|Searchable IPTC|?|
 |IPTC Scene Code|IPTC:Image Description|N/A|Searchable IPTC|?|
 |sublocation|IPTC:Image Description|N/A|Searchable IPTC|?|
-|city|IPTC:Image Description|N/A|Searchable IPTC|?|
+|city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |state/province|IPTC:Image Description|N/A|Searchable IPTC|?|
 |country|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code|IPTC:Image Description|N/A|Searchable IPTC|?|
@@ -43,3 +43,5 @@
 <a name="myfootnote2">2</a>: Windows and OS X use different names: Content (Mac OS) / IPTC (Windows)
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
+
+<a name="myfootnote4">3</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation refers to both IPTC:Image Description:City, and IPTC:Contact:City.
