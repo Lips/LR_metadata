@@ -1,12 +1,14 @@
-|LR_metadata field name| Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
-|---|---|---|---|---|
-|caption||Caption|Self < ASF|?|
-|file path||N/A|ASF|?|
-|virtual copy name||Copy Name|Self < ASF|?|
-|keywords||Keywords|Self < ASF|?|
-|collection name||N/A|ASF|?|
-|filename||Filename|Self|?|
-|copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self|?|
+|LR_metadata field name| Metadata Search Field Name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
+|---|---|---|---|---|---|
+|caption|||Caption|Self < ASF|?|
+|file path|||N/A|ASF|?|
+|virtual copy name|||Copy Name|Self < ASF|?|
+|keywords|Keyword||Keywords|Self < ASF|?|
+|collection name|||N/A|ASF|?|
+|filename|||Filename|Self|?|
+|copy name <sup>[1](#myfootnote1)</sup>|||Copy Name|Self|?|
+
+
 |title||Title|Self < SM|?|
 |keywords||Keywords|Self < ASF|?|
 |make|EXIF|N/A|Searchable EXIF|?|
