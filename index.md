@@ -11,9 +11,10 @@
 |make||EXIF|N/A|Searchable EXIF|?|
 |model|Camera|EXIF|N/A|Searchable EXIF|?|
 |serial number|Camera Serial Number|EXIF|N/A|Searchable EXIF|?|
-|software|EXIF|N/A|Searchable EXIF|?|
-|job title|IPTC:Contact|N/A|Searchable IPTC|?|
-|address|IPTC:Contact|N/A|Searchable IPTC|?|
+|software||EXIF|N/A|Searchable EXIF|?|
+|job title|job?|IPTC:Contact|N/A|Searchable IPTC|?|
+|address||IPTC:Contact|N/A|Searchable IPTC|?|
+
 |city|IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province|IPTC:Contact|N/A|Searchable IPTC|?|
 |postal Code|IPTC:Contact|N/A|Searchable IPTC|?|
