@@ -48,4 +48,5 @@ Searchable metadata fields created by third-party plug-ins.
 
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
+
 <a name="myfootnote2">2</a>: Windows and OS X use different names: Content (Mac OS) / IPTC (Windows)
