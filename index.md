@@ -17,7 +17,7 @@
 |city||IPTC:Contact|N/A|Searchable IPTC|?|
 |state/province||IPTC:Contact|N/A|Searchable IPTC|?|
 |postal Code||IPTC:Contact|N/A|Searchable IPTC|?|
-|country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
+|country||IPTC:Contact|N/A|Searchable IPTC|?|
 |creator|Creator|IPTC:Contact|N/A|Searchable IPTC|?|
 |headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
 |IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
@@ -27,7 +27,7 @@
 |sublocation|Sublocation?|IPTC:Image Description|N/A|Searchable IPTC|?|
 |city|City|IPTC:Image Description|N/A|Searchable IPTC|?|
 |state/province|State / Province|IPTC:Image Description|N/A|Searchable IPTC|?|
-|country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
+|country|Country|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
