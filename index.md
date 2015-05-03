@@ -4,7 +4,6 @@
 |file path||N/A|ASF|?|
 |virtual copy name||Copy Name|Self < ASF|?|
 |keywords||Keywords|Self < ASF|?|
-|custom metadata||N/A|ASF|?|
 |collection name||N/A|ASF|?|
 |filename||Filename|Self|?|
 |copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self|?|
