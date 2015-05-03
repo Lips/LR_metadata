@@ -1,7 +1,8 @@
+
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
 |caption||IPTC:Headline|Caption|Self < ASF|Caption|
-|file path||||ASF|?|
+|file path||||ASF|~Folder|
 |virtual copy name|||Copy Name|Self < ASF|?|
 |keywords|Keyword||Keywords|Self < ASF|?|
 |collection name||||ASF|?|
