@@ -30,12 +30,12 @@
 |country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
 |job identifier|Job?<sup>[7](#myfootnote7)|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|instructions|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|creditline|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|source|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|title|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|rights usage terms|IPTC:Copyright|N/A|Searchable IPTC|?|
-|copyright info URL|IPTC:Copyright|N/A|Searchable IPTC|?|
+|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|source||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|title||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
+|rights usage terms||IPTC:Copyright|N/A|Searchable IPTC|?|
+|copyright info URL||IPTC:Copyright|N/A|Searchable IPTC|?|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
 
