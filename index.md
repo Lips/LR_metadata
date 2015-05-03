@@ -14,8 +14,8 @@
 |software||EXIF||Searchable EXIF|?|
 |job title||IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
-|city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
-|state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
+|city||IPTC:Contact|N/A|Searchable IPTC|?|
+|state/province||IPTC:Contact|N/A|Searchable IPTC|?|
 |postal Code||IPTC:Contact|N/A|Searchable IPTC|?|
 |country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
 |creator|Creator|IPTC:Contact|N/A|Searchable IPTC|?|
@@ -25,8 +25,8 @@
 |intellectual genre||IPTC:Image Description|N/A|Searchable IPTC|?|
 |IPTC Scene Code||IPTC:Image Description|N/A|Searchable IPTC|?|
 |sublocation|Sublocation?|IPTC:Image Description|N/A|Searchable IPTC|?|
-|city|City?<sup>[4](#myfootnote4)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
-|state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
+|city|City|IPTC:Image Description|N/A|Searchable IPTC|?|
+|state/province|State / Province|IPTC:Image Description|N/A|Searchable IPTC|?|
 |country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code||IPTC:Image Description|N/A|Searchable IPTC|?|
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
