@@ -14,21 +14,20 @@
 |software||EXIF||Searchable EXIF|?|
 |job title|job?|IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
-
 |city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
-|state/province|IPTC:Contact|N/A|Searchable IPTC|?|
-|postal Code|IPTC:Contact|N/A|Searchable IPTC|?|
-|country|IPTC:Contact|N/A|Searchable IPTC|?|
-|creator|IPTC:Contact|N/A|Searchable IPTC|?|
-|headline|IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|IPTC subject code|IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|description writer|IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
-|intellectual genre|IPTC:Image Description|N/A|Searchable IPTC|?|
-|IPTC Scene Code|IPTC:Image Description|N/A|Searchable IPTC|?|
-|sublocation|IPTC:Image Description|N/A|Searchable IPTC|?|
+|state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
+|postal Code||IPTC:Contact|N/A|Searchable IPTC|?|
+|country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Contact|N/A|Searchable IPTC|?|
+|creator|Creator|IPTC:Contact|N/A|Searchable IPTC|?|
+|headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
+|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
+|description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|N/A|Searchable IPTC|?|
+|intellectual genre||IPTC:Image Description|N/A|Searchable IPTC|?|
+|IPTC Scene Code||IPTC:Image Description|N/A|Searchable IPTC|?|
+|sublocation|Sublocation?|IPTC:Image Description|N/A|Searchable IPTC|?|
 |city|city?<sup>[4](#myfootnote4)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
-|state/province|IPTC:Image Description|N/A|Searchable IPTC|?|
-|country|IPTC:Image Description|N/A|Searchable IPTC|?|
+|state/province|State / Province? <sup>[5](#myfootnote5)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
+|country|Country? <sup>[6](#myfootnote6)</sup>|IPTC:Image Description|N/A|Searchable IPTC|?|
 |ISO Country Code|IPTC:Image Description|N/A|Searchable IPTC|?|
 |job identifier|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |instructions|IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
@@ -44,4 +43,8 @@
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
 
-<a name="myfootnote4">3</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>.
+<a name="myfootnote4">4</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>.
+
+<a name="myfootnote5">5</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:State/Province</code>, and <code>IPTC:Contact:State/Province</code>.
+
+<a name="myfootnote5">5</a>: <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html"</a>Adobe documentation ambiguously refers to both <code>IPTC:Image Description:Country</code>, and <code>IPTC:Contact:Country</code>.
