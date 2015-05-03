@@ -32,7 +32,7 @@
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|N/A|Searchable IPTC|?|
-|title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|?|
+|title|Title|IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|?|
 |rights usage terms||IPTC:Copyright|N/A|Searchable IPTC|?|
 |copyright info URL||IPTC:Copyright|N/A|Searchable IPTC|?|
 
