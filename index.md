@@ -1,31 +1,21 @@
-|LR_metadata field name| Search bar field name | Search bar text subset | Smart collection field name|
-|---|---|---|---|
-|caption|Caption|Self < ASF|?|
-|file path|N/A|ASF|?|
-|virtual copy name|Copy Name|Self < ASF|?|
-|keywords|Keywords|Self < ASF|?|
-|custom metadata|N/A|ASF|?|
-|collection name|N/A|ASF|?|
-|filename|Filename|Self < ?|?|
-|Copy Name <sup>[1](#myfootnote1)</sup>|Copy Name|Self < ?|?|
+|LR_metadata field name| Source | Search bar field name | Search bar text subset | Smart collection field name|
+|---|---|---|---|---|
+|caption||Caption|Self < ASF|?|
+|file path||N/A|ASF|?|
+|virtual copy name||Copy Name|Self < ASF|?|
+|keywords||Keywords|Self < ASF|?|
+|custom metadata||N/A|ASF|?|
+|collection name||N/A|ASF|?|
+|filename||Filename|Self|?|
+|copy name <sup>[1](#myfootnote1)</sup>||Copy Name|Self < ?|?|
+|title||Title|Self < SM|?|
+|keywords||Keywords|Self < ASF|?|
+|make|N/A||Searchable EXIF|?|
+|model|N/A||Searchable EXIF|?|
+|serial number||N/A|Searchable EXIF|?|
+|software|N/A||Searchable EXIF|?|
+|Creator|N/A||Searchable IPTC|?|
 
-Title
-Captions
-Keywords
-
-###Searchable Metadata
-Searchable IPTC
-Searchable EXIF
-Title
-
-###Searchable EXIF
-Make
-Model
-Serial Number
-Software
-
-###Searchable IPTC
-IPTC:Contact:Creator
 IPTC:Contact:Job Title
 IPTC:Contact:Address
 IPTC:Contact:City
