@@ -10,7 +10,7 @@
 |make||EXIF||Searchable EXIF|---|
 |model|Camera|EXIF||Searchable EXIF|Camera|
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|Camera Serial Number|
-|software||EXIF||Searchable EXIF|?|
+|software||EXIF||Searchable EXIF|---|
 |job title||IPTC:Contact||Searchable IPTC|?|
 |address||IPTC:Contact||Searchable IPTC|?|
 |city||IPTC:Contact||Searchable IPTC|?|
