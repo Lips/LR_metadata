@@ -7,9 +7,9 @@
 |collection name|||---|ASF|Collection|
 |filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
-|make||EXIF|---|Searchable EXIF|---|
 |model|Camera|EXIF|---|Searchable EXIF|Camera|
 |serial number|Camera Serial Number|EXIF|---|Searchable EXIF|Camera Serial Number|
+|make||EXIF|---|Searchable EXIF|---|
 |software||EXIF|---|Searchable EXIF|---|
 |job title||IPTC:Contact|---|Searchable IPTC|---|
 |address||IPTC:Contact|---|Searchable IPTC|---|
