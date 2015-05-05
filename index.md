@@ -21,7 +21,7 @@
 |headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
-|intellectual genre||IPTC:Image Description|---|Searchable IPTC|?|
+|intellectual genre||IPTC:Image Description|---|Searchable IPTC|---|
 |IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|?|
 |sublocation|Sublocation|IPTC:Image Description|---|Searchable IPTC|Sublocation|
 |city|City|IPTC:Image Description|---|Searchable IPTC|?|
