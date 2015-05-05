@@ -1,3 +1,4 @@
+This is a loose, temporary sorting based on fields that are searchable via multiple methods, giving priority to the metadata drop-down and smart folders, as the most "programatic" searches, most useful in workflow.
 
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
