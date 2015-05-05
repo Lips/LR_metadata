@@ -9,6 +9,7 @@
 |city|City|IPTC:Image Description|---|Searchable IPTC|City|
 |state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
 |country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
+|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |filename|||Filename|Self|Filename|
@@ -29,7 +30,6 @@
 |intellectual genre||IPTC:Image Description|---|Searchable IPTC|---|
 |IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|---|
 |ISO Country Code||IPTC:Image Description|---|Searchable IPTC|---|
-|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
