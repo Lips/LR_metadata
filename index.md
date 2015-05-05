@@ -19,7 +19,7 @@
 |country||IPTC:Contact|---|Searchable IPTC|---|
 |creator|Creator|IPTC:Contact|---|Searchable IPTC|Creator|
 |headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
-|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
+|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
 |intellectual genre||IPTC:Image Description|---|Searchable IPTC|?|
 |IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|?|
