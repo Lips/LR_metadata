@@ -5,7 +5,7 @@
 |file path||||ASF|~Folder|
 |keywords|Keyword|IPTC Content:Keywords|Keywords|Self < ASF|Keywords|
 |collection name||||ASF|?|
-|filename|||Filename|Self|?|
+|filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
 |make||EXIF||Searchable EXIF|?|
 |model|Camera|EXIF||Searchable EXIF|?|
