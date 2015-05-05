@@ -15,7 +15,7 @@
 |address||IPTC:Contact|---|Searchable IPTC|---|
 |city||IPTC:Contact|---|Searchable IPTC|---|
 |state/province||IPTC:Contact|---|Searchable IPTC|---|
-|postal Code||IPTC:Contact|---|Searchable IPTC|?|
+|postal code||IPTC:Contact|---|Searchable IPTC|---|
 |country||IPTC:Contact|---|Searchable IPTC|---|
 |creator|Creator|IPTC:Contact|---|Searchable IPTC|?|
 |headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
