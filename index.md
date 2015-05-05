@@ -33,7 +33,7 @@
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
-|rights usage terms||IPTC:Copyright|---|Searchable IPTC|?|
+|rights usage terms||IPTC:Copyright|---|Searchable IPTC|---|
 |copyright info URL||IPTC:Copyright|---|Searchable IPTC|?|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
