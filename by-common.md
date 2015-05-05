@@ -11,10 +11,10 @@
 |country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
-|file path||||ASF|~Folder|
-|collection name|||---|ASF|Collection|
 |filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
+|file path||||ASF|~Folder|
+|collection name|||---|ASF|Collection|
 |make||EXIF|---|Searchable EXIF|---|
 |software||EXIF|---|Searchable EXIF|---|
 |job title||IPTC:Contact|---|Searchable IPTC|---|
