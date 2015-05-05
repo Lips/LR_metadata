@@ -22,7 +22,7 @@
 |IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |intellectual genre||IPTC:Image Description|---|Searchable IPTC|---|
-|IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|?|
+|IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|---|
 |sublocation|Sublocation|IPTC:Image Description|---|Searchable IPTC|Sublocation|
 |city|City|IPTC:Image Description|---|Searchable IPTC|?|
 |state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
