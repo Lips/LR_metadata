@@ -4,7 +4,7 @@
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
 |keywords|Keyword|IPTC Content:Keywords|Keywords|Self < ASF|Keywords|
-|collection name||||ASF|?|
+|collection name||||ASF|Collection|
 |filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
 |make||EXIF||Searchable EXIF|?|
