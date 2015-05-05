@@ -12,7 +12,7 @@
 |serial number|Camera Serial Number|EXIF||Searchable EXIF|Camera Serial Number|
 |software||EXIF||Searchable EXIF|---|
 |job title||IPTC:Contact||Searchable IPTC|---|
-|address||IPTC:Contact||Searchable IPTC|?|
+|address||IPTC:Contact||Searchable IPTC|---|
 |city||IPTC:Contact||Searchable IPTC|?|
 |state/province||IPTC:Contact||Searchable IPTC|?|
 |postal Code||IPTC:Contact||Searchable IPTC|?|
