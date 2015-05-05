@@ -4,37 +4,37 @@
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
 |keywords|Keyword|IPTC Content:Keywords|Keywords|Self < ASF|Keywords|
-|collection name||||ASF|Collection|
+|collection name|||---|ASF|Collection|
 |filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
-|make||EXIF||Searchable EXIF|---|
-|model|Camera|EXIF||Searchable EXIF|Camera|
-|serial number|Camera Serial Number|EXIF||Searchable EXIF|Camera Serial Number|
-|software||EXIF||Searchable EXIF|---|
-|job title||IPTC:Contact||Searchable IPTC|---|
-|address||IPTC:Contact||Searchable IPTC|---|
-|city||IPTC:Contact||Searchable IPTC|---|
-|state/province||IPTC:Contact||Searchable IPTC|?|
-|postal Code||IPTC:Contact||Searchable IPTC|?|
-|country||IPTC:Contact||Searchable IPTC|?|
-|creator|Creator|IPTC:Contact||Searchable IPTC|?|
-|headline||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
-|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
-|description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>||Searchable IPTC|?|
-|intellectual genre||IPTC:Image Description||Searchable IPTC|?|
-|IPTC Scene Code||IPTC:Image Description||Searchable IPTC|?|
-|sublocation|Sublocation|IPTC:Image Description||Searchable IPTC|Sublocation|
-|city|City|IPTC:Image Description||Searchable IPTC|?|
-|state/province|State / Province|IPTC:Image Description||Searchable IPTC|?|
-|country|Country|IPTC:Image Description||Searchable IPTC|?|
-|ISO Country Code||IPTC:Image Description||Searchable IPTC|?|
-|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|Job|
-|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
-|creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
-|source||IPTC:Status<sup>[3](#myfootnote3)</sup>||Searchable IPTC|?|
+|make||EXIF|---|Searchable EXIF|---|
+|model|Camera|EXIF|---|Searchable EXIF|Camera|
+|serial number|Camera Serial Number|EXIF|---|Searchable EXIF|Camera Serial Number|
+|software||EXIF|---|Searchable EXIF|---|
+|job title||IPTC:Contact|---|Searchable IPTC|---|
+|address||IPTC:Contact|---|Searchable IPTC|---|
+|city||IPTC:Contact|---|Searchable IPTC|---|
+|state/province||IPTC:Contact|---|Searchable IPTC|?|
+|postal Code||IPTC:Contact|---|Searchable IPTC|?|
+|country||IPTC:Contact|---|Searchable IPTC|?|
+|creator|Creator|IPTC:Contact|---|Searchable IPTC|?|
+|headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
+|IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
+|description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|?|
+|intellectual genre||IPTC:Image Description|---|Searchable IPTC|?|
+|IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|?|
+|sublocation|Sublocation|IPTC:Image Description|---|Searchable IPTC|Sublocation|
+|city|City|IPTC:Image Description|---|Searchable IPTC|?|
+|state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|?|
+|country|Country|IPTC:Image Description|---|Searchable IPTC|?|
+|ISO Country Code||IPTC:Image Description|---|Searchable IPTC|?|
+|job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
+|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
+|creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
+|source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
-|rights usage terms||IPTC:Copyright||Searchable IPTC|?|
-|copyright info URL||IPTC:Copyright||Searchable IPTC|?|
+|rights usage terms||IPTC:Copyright|---|Searchable IPTC|?|
+|copyright info URL||IPTC:Copyright|---|Searchable IPTC|?|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
 
