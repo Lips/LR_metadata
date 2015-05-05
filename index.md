@@ -27,7 +27,7 @@
 |city|City|IPTC:Image Description|---|Searchable IPTC|?|
 |state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
 |country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
-|ISO Country Code||IPTC:Image Description|---|Searchable IPTC|?|
+|ISO Country Code||IPTC:Image Description|---|Searchable IPTC|---|
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
