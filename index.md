@@ -29,7 +29,7 @@
 |country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
 |ISO Country Code||IPTC:Image Description|---|Searchable IPTC|---|
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
-|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
+|instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
