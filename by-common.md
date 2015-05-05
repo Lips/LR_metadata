@@ -2,7 +2,6 @@
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
 |---|---|---|---|---|---|
 |keywords|Keyword|IPTC Content:Keywords|Keywords|Self < ASF|Keywords|
-|caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |model|Camera|EXIF|---|Searchable EXIF|Camera|
 |serial number|Camera Serial Number|EXIF|---|Searchable EXIF|Camera Serial Number|
 |creator|Creator|IPTC:Contact|---|Searchable IPTC|Creator|
@@ -10,6 +9,7 @@
 |city|City|IPTC:Image Description|---|Searchable IPTC|City|
 |state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
 |country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
+|caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |file path||||ASF|~Folder|
 |collection name|||---|ASF|Collection|
