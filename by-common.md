@@ -5,6 +5,12 @@
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |model|Camera|EXIF|---|Searchable EXIF|Camera|
 |serial number|Camera Serial Number|EXIF|---|Searchable EXIF|Camera Serial Number|
+|creator|Creator|IPTC:Contact|---|Searchable IPTC|Creator|
+|sublocation|Sublocation|IPTC:Image Description|---|Searchable IPTC|Sublocation|
+|city|City|IPTC:Image Description|---|Searchable IPTC|City|
+|state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
+|country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
+|title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |file path||||ASF|~Folder|
 |collection name|||---|ASF|Collection|
 |filename|||Filename|Self|Filename|
@@ -17,22 +23,16 @@
 |state/province||IPTC:Contact|---|Searchable IPTC|---|
 |postal code||IPTC:Contact|---|Searchable IPTC|---|
 |country||IPTC:Contact|---|Searchable IPTC|---|
-|creator|Creator|IPTC:Contact|---|Searchable IPTC|Creator|
 |headline||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |IPTC subject code||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |description writer||IPTC:Content<sup>[2](#myfootnote2)</sup>|---|Searchable IPTC|---|
 |intellectual genre||IPTC:Image Description|---|Searchable IPTC|---|
 |IPTC Scene Code||IPTC:Image Description|---|Searchable IPTC|---|
-|sublocation|Sublocation|IPTC:Image Description|---|Searchable IPTC|Sublocation|
-|city|City|IPTC:Image Description|---|Searchable IPTC|City|
-|state/province|State / Province|IPTC:Image Description|---|Searchable IPTC|State / Province|
-|country|Country|IPTC:Image Description|---|Searchable IPTC|Country|
 |ISO Country Code||IPTC:Image Description|---|Searchable IPTC|---|
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
-|title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |rights usage terms||IPTC:Copyright|---|Searchable IPTC|---|
 |copyright info URL||IPTC:Copyright|---|Searchable IPTC|---|
 
