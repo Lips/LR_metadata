@@ -31,7 +31,7 @@
 |job identifier|Job|IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|Job|
 |instructions||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |creditline||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
-|source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|?|
+|source||IPTC:Status<sup>[3](#myfootnote3)</sup>|---|Searchable IPTC|---|
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |rights usage terms||IPTC:Copyright|---|Searchable IPTC|?|
 |copyright info URL||IPTC:Copyright|---|Searchable IPTC|?|
