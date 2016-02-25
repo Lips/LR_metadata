@@ -40,6 +40,7 @@
 |title||IPTC:Status<sup>[3](#myfootnote3)</sup>|Title|Self < SM, Searchable IPTC|Title|
 |rights usage terms||IPTC:Copyright|---|Searchable IPTC|---|
 |copyright info URL||IPTC:Copyright|---|Searchable IPTC|---|
+|copyright status|Copyright Status|IPTC Copyright Satus<sup>[5](#myfootnote5)</sup>||Other Metadate -> Copyright Status|
 
 <a name="myfootnote1">1</a>: Virtual copy names are referred to as either simple "Copy Name" or "Virtual Copy Name"
 
