@@ -1,11 +1,11 @@
 
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
+|---|---|---|---|---|---|
 |---|Date|EXIF data (not sure which one)|---|---|Date -> Capture Date|
 |---|File Type|Not sure, extension, file fork, etc.|---|---|File Name / Type -> File Type|
 |---|Flag|Internal LR DB?|---|---|Pick Flag|
 |---|Rating|Internal LR DB?|---|---|Rating|
 |---|Label|Internal LR DB?|---|---|Label Color or Label Text|
-|---|---|---|---|---|---|
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
 |keywords|Keyword|IPTC Content:Keywords<sup>[4](#myfootnote4)</sup>|Keywords|Self < ASF|Keywords|
