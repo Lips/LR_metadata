@@ -1,9 +1,14 @@
 
 |LR_metadata field name| Metadata search bar field name | Source | Text search bar field name | Text search dropdown subset | Smart collection field name|
+|---|Date|EXIF data (not sure which one)|---|---|Date -> Capture Date|
+|---|File Type|Not sure, extension, file fork, etc.|---|---|File Name / Type -> File Type|
+|---|Flag|Internal LR DB?|---|---|Pick Flag|
+|---|Rating|Internal LR DB?|---|---|Rating|
+|---|Label|Internal LR DB?|---|---|Label Color or Label Text|
 |---|---|---|---|---|---|
 |caption||IPTC Content:Description|Caption|Self < ASF|Caption|
 |file path||||ASF|~Folder|
-|keywords|Keyword|IPTC Content:Keywords|Keywords|Self < ASF|Keywords|
+|keywords|Keyword|IPTC Content:Keywords<sup>[4](#myfootnote4)</sup>|Keywords|Self < ASF|Keywords|
 |collection name|||---|ASF|Collection|
 |filename|||Filename|Self|Filename|
 |virtual copy name <sup>[1](#myfootnote1)</sup>||LR:File/Folder|Copy Name|Self < ASF|Copy Name|
@@ -41,6 +46,8 @@
 <a name="myfootnote2">2</a>: Windows and OS X use different names: Content (Mac OS) / IPTC (Windows)
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
+
+<a name="myfootnote3">4</a>: Keywords are inserted into the IPTC field, but are not locked in the IPTC metadata pane, and only editable via the LR keywords pane.
 
 <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html">Adobe documentation</a> ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>.<br/>The metadata search bar refers to <code>IPTC:Image Description:City</code>.
 
