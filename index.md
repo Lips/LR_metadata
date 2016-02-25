@@ -48,7 +48,9 @@
 
 <a name="myfootnote3">3</a>: Windows and OS X use different names: IPTC Status (Mac OS) / Workflow (Windows)
 
-<a name="myfootnote3">4</a>: Keywords are inserted into the IPTC field, but are not locked in the IPTC metadata pane, and only editable via the LR keywords pane.
+<a name="myfootnote4">4</a>: Keywords are inserted into the IPTC field, but are not locked in the IPTC metadata pane, and only editable via the LR keywords pane.
+
+<a name="myfootnote5">5</a>: Copyright status is limited to drop-down choices of Unknown/Copyrighted/Public Domain. Copyright detail can be filled in under Copyright, Rights Usage Terms, and Copyright Info URL, but don't have a fixed relationship with the drop-down, in that a license and associated usage and URL will not automatically populate.
 
 <a href="https://helpx.adobe.com/lightroom/help/finding-photos-catalog.html">Adobe documentation</a> ambiguously refers to both <code>IPTC:Image Description:City</code>, and <code>IPTC:Contact:City</code>.<br/>The metadata search bar refers to <code>IPTC:Image Description:City</code>.
 
